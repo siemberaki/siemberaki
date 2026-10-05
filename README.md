@@ -13,7 +13,7 @@ Full-stack developer • Problem solver • Lifelong learner
 I’m a software developer passionate about building meaningful digital experiences and solving real-world problems with clean, efficient, and scalable code.
 
 - 💼 Current role: Software Developer / Full-stack Engineer
-- 🌍 Based in: Kenya
+- 🌍 Based in: CANADA
 - 🧠 Main interests: Web development, backend systems, cloud architecture, AI, and open source
 - 🚀 Looking for: Collaboration, learning opportunities, and meaningful software projects
 - 🎯 Motto: Build things that matter, keep learning, and never stop improving.
